@@ -1,0 +1,265 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/prj_practice/10 snake_vga/prj/simulation/modelsim
+T_opt
+!s110 1718718913
+V]XLmm4O_agN;DVIHjHkIG3
+Z1 04 6 4 work top_tb fast 0
+=1-b025aa3a21af-667191c1-186-3a60
+Z2 o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+Z3 OL;O;10.4;61
+R0
+T_opt1
+Z4 !s110 1718720369
+V<Pi44L_fOdzf@kf:Li16N1
+R1
+=1-b025aa3a21af-66719771-1f5-14cc
+R2
+n@_opt1
+R3
+vGame_End
+R4
+!i10b 1
+!s100 9dK]z@[P?kiJY@mI7K=683
+IVTH:iEzbKmdnS8Q18ZGh?2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1718712291
+8D:/prj_practice/10 snake_vga/rtl/Game_End.v
+FD:/prj_practice/10 snake_vga/rtl/Game_End.v
+L0 3
+Z6 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1718720369.092000
+!s107 D:/prj_practice/10 snake_vga/rtl/Game_End.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/rtl|D:/prj_practice/10 snake_vga/rtl/Game_End.v|
+!i113 0
+Z7 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 !s92 -vlog01compat -work work {+incdir+D:/prj_practice/10 snake_vga/rtl} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@game_@end
+vGame_Play
+R4
+!i10b 1
+!s100 _Qh^zc=_@OnG1Zz;4Ockk1
+I3><d[3BQ;KKX3RzAC0n]j3
+R5
+R0
+w1718712057
+8D:/prj_practice/10 snake_vga/rtl/Game_Play.v
+FD:/prj_practice/10 snake_vga/rtl/Game_Play.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1718720369.037000
+!s107 D:/prj_practice/10 snake_vga/rtl/Game_Play.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/rtl|D:/prj_practice/10 snake_vga/rtl/Game_Play.v|
+!i113 0
+R7
+R8
+n@game_@play
+vGame_Speed
+Z9 !s110 1718720368
+!i10b 1
+!s100 ^agEQU^5L?E]TK1o=B?S]0
+IEHFIIn[HNak9LeHZ7W0d51
+R5
+R0
+w1718712204
+8D:/prj_practice/10 snake_vga/rtl/Game_Speed.v
+FD:/prj_practice/10 snake_vga/rtl/Game_Speed.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1718720368.984000
+!s107 D:/prj_practice/10 snake_vga/rtl/Game_Speed.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/rtl|D:/prj_practice/10 snake_vga/rtl/Game_Speed.v|
+!i113 0
+R7
+R8
+n@game_@speed
+vGame_Start
+R9
+!i10b 1
+!s100 K5o]L[71o5CFz3[2SJ7IZ1
+IoN=:7]W[k]BNc4a;50jG70
+R5
+R0
+w1718715084
+8D:/prj_practice/10 snake_vga/rtl/Game_Start.v
+FD:/prj_practice/10 snake_vga/rtl/Game_Start.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1718720368.933000
+!s107 D:/prj_practice/10 snake_vga/rtl/Game_Start.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/rtl|D:/prj_practice/10 snake_vga/rtl/Game_Start.v|
+!i113 0
+R7
+R8
+n@game_@start
+vKey_Ctrl
+R9
+!i10b 1
+!s100 e@oMmR[]TnNQBL]PCh`120
+IYzZjE[Y<9>]AY`h4G=ATl1
+R5
+R0
+w1718720250
+8D:/prj_practice/10 snake_vga/rtl/Key_Ctrl.v
+FD:/prj_practice/10 snake_vga/rtl/Key_Ctrl.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1718720368.882000
+!s107 D:/prj_practice/10 snake_vga/rtl/Key_Ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/rtl|D:/prj_practice/10 snake_vga/rtl/Key_Ctrl.v|
+!i113 0
+R7
+R8
+n@key_@ctrl
+vpic_rom
+R4
+!i10b 1
+!s100 h;6`:5[oPCS_QT>OZM4MN2
+IgPfmZ]Xc8PJWnNhhhHY=51
+R5
+R0
+w1718709902
+8D:/prj_practice/10 snake_vga/prj/pic_rom.v
+FD:/prj_practice/10 snake_vga/prj/pic_rom.v
+Z10 L0 39
+R6
+r1
+!s85 0
+31
+!s108 1718720369.146000
+!s107 D:/prj_practice/10 snake_vga/prj/pic_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/prj|D:/prj_practice/10 snake_vga/prj/pic_rom.v|
+!i113 0
+R7
+Z11 !s92 -vlog01compat -work work {+incdir+D:/prj_practice/10 snake_vga/prj} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vpll_clk
+R4
+!i10b 1
+!s100 `UJU9]FMA0YM;JYUa^XXQ2
+IZN:F5iZ5Ge@@`Q95a1fkJ0
+R5
+R0
+w1718705435
+8D:/prj_practice/10 snake_vga/prj/pll_clk.v
+FD:/prj_practice/10 snake_vga/prj/pll_clk.v
+R10
+R6
+r1
+!s85 0
+31
+!s108 1718720369.198000
+!s107 D:/prj_practice/10 snake_vga/prj/pll_clk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/prj|D:/prj_practice/10 snake_vga/prj/pll_clk.v|
+!i113 0
+R7
+R11
+vpll_clk_altpll
+R4
+!i10b 1
+!s100 @DlOKR1@9AzhM2SIZ8`RA2
+IMcm;>SNkW8dTYeE^A<Y<`2
+R5
+R0
+w1718705354
+8D:/prj_practice/10 snake_vga/prj/db/pll_clk_altpll.v
+FD:/prj_practice/10 snake_vga/prj/db/pll_clk_altpll.v
+L0 30
+R6
+r1
+!s85 0
+31
+!s108 1718720369.253000
+!s107 D:/prj_practice/10 snake_vga/prj/db/pll_clk_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/prj/db|D:/prj_practice/10 snake_vga/prj/db/pll_clk_altpll.v|
+!i113 0
+R7
+!s92 -vlog01compat -work work {+incdir+D:/prj_practice/10 snake_vga/prj/db} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtop_tb
+R4
+!i10b 1
+!s100 k0cAdUB9@6_Q?cSaEiC2<1
+IzHFz50fMSigG?d^AY32cd0
+R5
+R0
+w1718719361
+8D:/prj_practice/10 snake_vga/prj/../sim/top_tb.v
+FD:/prj_practice/10 snake_vga/prj/../sim/top_tb.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1718720369.304000
+!s107 D:/prj_practice/10 snake_vga/prj/../sim/top_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/prj/../sim|D:/prj_practice/10 snake_vga/prj/../sim/top_tb.v|
+!i113 0
+R7
+!s92 -vlog01compat -work work {+incdir+D:/prj_practice/10 snake_vga/prj/../sim} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vTop_VGA_Game_Snake
+R9
+!i10b 1
+!s100 c^[f1o9eh;ML@QjGB<>P]1
+I8?jF90_jL_zz42=DilLhD0
+R5
+R0
+w1718713986
+8D:/prj_practice/10 snake_vga/rtl/Top_VGA_Game_Snake.v
+FD:/prj_practice/10 snake_vga/rtl/Top_VGA_Game_Snake.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1718720368.830000
+!s107 D:/prj_practice/10 snake_vga/rtl/Top_VGA_Game_Snake.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/rtl|D:/prj_practice/10 snake_vga/rtl/Top_VGA_Game_Snake.v|
+!i113 0
+R7
+R8
+n@top_@v@g@a_@game_@snake
+vVGA_Driver
+R9
+!i10b 1
+!s100 2k[i^Q_D]NEF74H9=fLdY0
+IkYoMjn<h]bhl[ihGZ]cd`3
+R5
+R0
+w1718712103
+8D:/prj_practice/10 snake_vga/rtl/VGA_Driver.v
+FD:/prj_practice/10 snake_vga/rtl/VGA_Driver.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1718720368.778000
+!s107 D:/prj_practice/10 snake_vga/rtl/VGA_Driver.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/prj_practice/10 snake_vga/rtl|D:/prj_practice/10 snake_vga/rtl/VGA_Driver.v|
+!i113 0
+R7
+R8
+n@v@g@a_@driver

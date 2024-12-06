@@ -1,0 +1,20 @@
+
+State Machine - |Top_VGA_Game_Snake|Key_Ctrl:u_Key_Ctrl|change_cond
+Name change_cond.00 change_cond.10 change_cond.01 
+change_cond.00 0 0 0 
+change_cond.01 1 0 1 
+change_cond.10 1 1 0 
+
+State Machine - |Top_VGA_Game_Snake|Key_Ctrl:u_Key_Ctrl|move_dirt
+Name move_dirt.UP move_dirt.DOWN move_dirt.LEFT move_dirt.RIGHT 
+move_dirt.RIGHT 0 0 0 0 
+move_dirt.LEFT 0 0 1 1 
+move_dirt.DOWN 0 1 0 1 
+move_dirt.UP 1 0 0 1 
+
+State Machine - |Top_VGA_Game_Snake|Key_Ctrl:u_Key_Ctrl|state_c
+Name state_c.END state_c.PLAY state_c.SPEED state_c.START 
+state_c.START 0 0 0 0 
+state_c.SPEED 0 0 1 1 
+state_c.PLAY 0 1 0 1 
+state_c.END 1 0 0 1 
